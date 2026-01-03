@@ -1,0 +1,4 @@
+INFO:root:Data saved to CSV successfully
+INFO:root:Data saved to CSV successfully
+INFO:root:Scraping completed successfully
+2026-01-03 22:15:57,327 - INFO - Job scraping completed successfully
