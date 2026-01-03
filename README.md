@@ -28,7 +28,16 @@ Python project that scrapes job listings from a public website, analyzes in-dema
 ## How to Run
 
 1. Install dependencies:
-
-```bash
+   
 pip install -r requirements.txt
+
+3. Run scraper:
+
+python scraper.py
+
+3. Run Flask API:
+
+python app.py
+
+4. Open browser: http://127.0.0.1:5000/jobs
 
